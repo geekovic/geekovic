@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Sharma
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning basic programming
+- 👀 I’m interested in Python & Cyber Security
+- 🌱 I’m currently learning C++/Python
 
 <!---
 geekovic/geekovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek Sharma
-- 👀 I’m interested in Python
+- 👀 I’m interested in Robotics
 - 🌱 I’m currently learning C++/Python
 
 <!---

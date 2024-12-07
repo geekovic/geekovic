@@ -26,12 +26,12 @@
 
 <br>
 
-# 📊 GitHub Stats:
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=geekovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geekovic&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## <img src="https://media.giphy.com/media/l0Exj6t3iK0Xzv00E/giphy.gif?cid=790b7611zecwjtvzy9cmut9wqjpas1bk1zobmcj22qyfdc09&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"> **Github Trophies:**
 ![](https://github-profile-trophy.vercel.app/?username=geekovic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img src="https://raw.githubusercontent.com/geekovic/geekovic/output/snake.svg" alt="Snake animation" />

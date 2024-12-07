@@ -19,7 +19,7 @@
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's Connect:** ️
-<a href="https://linkedin.com/in/skysparks777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="skysparks777" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek-sharma-31a611274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geekovic" height="30" width="40" /></a>
 
 <br>
 

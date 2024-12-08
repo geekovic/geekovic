@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611cz4bcv2oc0s0f28ls0r0pokiw86rxmfpdn0xnv3f&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="logo" height="300" width="900">
+<img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611cz4bcv2oc0s0f28ls0r0pokiw86rxmfpdn0xnv3f&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="logo" height="" width="900">
 </p>
 <h1 align="center">Hello 👋, I'm Vivek Sharma ☠️😗</h1>
 <h3 align="center"> COMPUTER ENGINEERING STUDENT | GCET,JAMMU | 2027 GRAD | Python | Frontend Development </h3>

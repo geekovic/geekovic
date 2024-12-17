@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello 👋, I'm Vivek Sharma ☠️😗</h1>
 <h3 align="center"> COMPUTER ENGINEERING STUDENT | GCET,JAMMU | 2027 GRAD | Python | Frontend Development </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekovic&label=Profile%20views&color=0e75b6&style=flat" alt="geekovic" /> </p>
+
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b7611cz4bcv2oc0s0f28ls0r0pokiw86rxmfpdn0xnv3f&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
